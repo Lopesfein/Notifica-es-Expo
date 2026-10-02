@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Expo Notificações",
+    "slug": "expo-notificacoes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.expo.notificacoes",
+      "adaptiveIcon": {
+        "backgroundColor": "#dfe6e3"
+      }
+    }
+  }
+}
